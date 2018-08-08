@@ -4,7 +4,7 @@
 [Primary Source Searches](
 https://docs.google.com/spreadsheets/d/1wfXeGPO_04nWyd1FXunDXZUj2RlZQTbnlrsmhiXhS_Q/edit?usp=sharing)
 
-[Delve's FEC Search Dashboard]()
+[Delve's FEC Search Dashboard](https://fec.delvedc.com/contributions)
 
 [FollowTheMoney](https://www.followthemoney.org/)
 
