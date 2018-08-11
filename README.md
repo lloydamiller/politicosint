@@ -38,8 +38,3 @@ https://docs.google.com/spreadsheets/d/1wfXeGPO_04nWyd1FXunDXZUj2RlZQTbnlrsmhiXh
 
 [ProPublica Database of U.S. House of Representatives Office Spending](https://projects.propublica.org/represent/expenditures)
 
----
-
-## DEFCON Recon Village Presentation
-
-[Slide Deck](https://github.com/lloydamiller/politicosint/blob/master/Applied%20OSINT%20For%20Politics%20(Recon%20Village)%202018-08-11.pptx)
